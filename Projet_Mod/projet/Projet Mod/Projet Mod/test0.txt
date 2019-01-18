@@ -1,0 +1,29 @@
+# Graphe N = 5 ; M = 
+
+ressource 1
+
+sectionSommets
+s0  0  0
+i1  0  5
+i2  0  7
+i3  0  8
+p0  0  10
+
+sources
+s0
+
+puits
+p0  0  10
+
+sectionArcs
+arce01  s0  i1  4  3
+arce02  s0  i2  8  2
+arce03  i1  i2  4  3
+arce04  i1  i3  2  6
+arce05  i2  i3  3  4
+arce06  i2  p0  2  6
+arce07  i3  p0  3  4
+
+sectionGraphes
+
+graphe1 i  s1   p1
