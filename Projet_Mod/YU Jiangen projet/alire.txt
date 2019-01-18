@@ -1,0 +1,11 @@
+Logiciel : Microsoft Visual Studio 2010
+
+10 instances de graphes : Toutes les donn¨¦es stock¨¦es dans le format de fichier txt
+                          (de test0 ¨¤ test 9)
+
+
+
+Tester :Toutes les instances(de test 0  ¨¤ test 9) sont d¨¦j¨¤ enregistr¨¦s dans les codes 
+        sources .Vous pouvez changer le nom de fichier txt(de test 0  ¨¤ test 9) pour 
+        tester diff¨¦rente instances de graphes.
+

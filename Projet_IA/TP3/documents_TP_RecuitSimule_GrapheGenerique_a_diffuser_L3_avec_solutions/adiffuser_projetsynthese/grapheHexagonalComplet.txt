@@ -1,0 +1,102 @@
+titre = carte routi¨¨re
+legende = carte routi¨¨re simplifi¨¦e repr¨¦sent¨¦e par un graphe
+resume = carte routi¨¨re
+type de scene = courbes
+coin bas gauche de la figure sur l'¨¦cran en coordonn¨¦es monde = ( -1, -1)
+coin haut droit de la figure sur l'¨¦cran en coordonn¨¦es monde = ( 5, 5)
+nombre de points remarquables = 10
+point remarquable = 2 black (0,0) O
+point remarquable = 2 black (1,0) 1
+point remarquable = 2 black (0,1) 1
+point remarquable = 5 red ( 4, 2) s6( 4, 2)
+point remarquable = 5 red ( 2, 2) s5( 2, 2)
+point remarquable = 5 red ( 5, 1) s4( 5, 1)
+point remarquable = 5 red ( 3, 1) s3( 3, 1)
+point remarquable = 5 red ( 1, 1) s2( 1, 1)
+point remarquable = 5 red ( 4, 0) s1( 4, 0)
+point remarquable = 5 red ( 2, 0) s0( 2, 0)
+nombre de courbes = 21
+couleur =  black
+nombre de points = 2
+( 2, 2)
+( 4, 2)
+couleur =  black
+nombre de points = 2
+( 5, 1)
+( 4, 2)
+couleur =  black
+nombre de points = 2
+( 5, 1)
+( 2, 2)
+couleur =  black
+nombre de points = 2
+( 3, 1)
+( 4, 2)
+couleur =  black
+nombre de points = 2
+( 3, 1)
+( 2, 2)
+couleur =  black
+nombre de points = 2
+( 3, 1)
+( 5, 1)
+couleur =  black
+nombre de points = 2
+( 1, 1)
+( 4, 2)
+couleur =  black
+nombre de points = 2
+( 1, 1)
+( 2, 2)
+couleur =  black
+nombre de points = 2
+( 1, 1)
+( 5, 1)
+couleur =  black
+nombre de points = 2
+( 1, 1)
+( 3, 1)
+couleur =  black
+nombre de points = 2
+( 4, 0)
+( 4, 2)
+couleur =  black
+nombre de points = 2
+( 4, 0)
+( 2, 2)
+couleur =  black
+nombre de points = 2
+( 4, 0)
+( 5, 1)
+couleur =  black
+nombre de points = 2
+( 4, 0)
+( 3, 1)
+couleur =  black
+nombre de points = 2
+( 4, 0)
+( 1, 1)
+couleur =  black
+nombre de points = 2
+( 2, 0)
+( 4, 2)
+couleur =  black
+nombre de points = 2
+( 2, 0)
+( 2, 2)
+couleur =  black
+nombre de points = 2
+( 2, 0)
+( 5, 1)
+couleur =  black
+nombre de points = 2
+( 2, 0)
+( 3, 1)
+couleur =  black
+nombre de points = 2
+( 2, 0)
+( 1, 1)
+couleur =  black
+nombre de points = 2
+( 2, 0)
+( 4, 0)
